@@ -1,0 +1,65 @@
+body{
+    margin: 0px;
+    background-color: rgb(142, 228, 199);
+}
+.bodybox {
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin: auto;
+    width: 40%;
+    border: 5px;
+    padding: 50px;
+}
+h1{
+    text-transform: capitalize;
+}
+.todo{
+    text-transform: capitalize;
+    border: none;
+    padding: 10px 25px;
+    margin: 2px 1px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 4px;
+}
+    .sub{
+        background-color: #04AA6D;
+        border: none;
+        color: white;
+        padding: 12px 20px;
+        text-decoration: none;
+        cursor: pointer;
+        width: 25%;
+        font-size: 15px;
+        font-weight: bold;
+        border-radius: 3px;
+}
+    .cont{
+        width: 70%;
+        margin: auto;
+        border-radius: 10px;
+    }
+    .ed{
+        text-transform: capitalize;
+        height: 20px;
+        width: 50px;
+        position: absolute;
+        left: 52.5%;
+}
+
+.button{
+    height: 35px;
+    width: 40px;
+    position: absolute;
+    left: 53%;
+    text-transform: capitalize;
+}
+
+.dele{
+    height: 35px;
+    width: 40px;
+    position: absolute;
+    left: 57%;
+    text-transform: capitalize;
+}
